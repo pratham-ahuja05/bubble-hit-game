@@ -47,7 +47,7 @@ document.querySelector("#pbtm").addEventListener("click", function (dets) {
   dets.target.classList.add("clicked");
   incScore();
   
-  // Wait 200ms before refreshing bubbles to allow animation
+  
   setTimeout(() => {
     makebubble();
     getNewHit();
@@ -69,7 +69,7 @@ document.querySelector("#restart").addEventListener("click", function () {
   runtimer();
 });
 
-// Countdown before game starts
+
 function startCountdown() {
   let count = 3;
   const countdownDiv = document.querySelector("#countdown");
@@ -90,5 +90,5 @@ function startCountdown() {
   }, 1000);
 }
 
-// Start the countdown when page loads
+
 startCountdown();
