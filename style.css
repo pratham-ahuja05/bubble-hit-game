@@ -65,7 +65,7 @@ html, body {
   align-content: flex-start;
   background-color: white;
   width: 100%;
-  height: calc(100% - 90px - 20px); /* leave space for timer bar */
+  height: calc(100% - 90px - 20px); 
 }
 
 .bubble {
