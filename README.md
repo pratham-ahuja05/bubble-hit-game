@@ -11,6 +11,11 @@ A fun and interactive number-hitting game built using **HTML**, **CSS**, and **J
 - ⌛ Visual timer bar
 - 🔄 Restart option after game over
 
+## 📸 Screenshot
+
+![Bubble Hit Game Screenshot](https://github.com/pratham-ahuja05/bubble-hit-game/blob/main/Screenshot%20(27).png?raw=true)
+<!-- Replace path with your actual image location, e.g. /images/game-preview.png or hosted link -->
+
 ## 🕹️ How to Play
 
 1. Wait for the 3-second countdown.
